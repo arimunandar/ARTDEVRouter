@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/arimunandar/ARTDEVRouter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'arimunandar' => 'arimunandar.dev@gmail.com' }
+  s.author           = { 'Ari Munandar' => 'arimunandar.dev@gmail.com' }
   s.source           = { :git => 'https://github.com/arimunandar/ARTDEVRouter.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/_arimunandar_'
 

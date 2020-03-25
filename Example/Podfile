@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ARTDEVRouter_Example' do
+  pod 'ARTDEVRouter', :path => '../'
+
+  target 'ARTDEVRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
